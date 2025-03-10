@@ -1,1 +1,3 @@
 # bot_agent
+
+In this project, I follow ["Build a Customer Support Bot"](https://langchain-ai.github.io/langgraph/tutorials/customer-support/customer-support/) tutorial, available in the LangGraph documentation. where it is built a customer support bot for an airline to help users research and make travel arrangements. The goal of this project is to build a working bot and gain an understanding of LangGraph's key concepts and architectures. 
